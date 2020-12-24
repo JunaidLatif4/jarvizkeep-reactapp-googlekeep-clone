@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jarvizkeep-reactapp-googlekeep-clone/static/css/main.6851aa1d.chunk.css",
+    "main.js": "/jarvizkeep-reactapp-googlekeep-clone/static/js/main.5e8f705c.chunk.js",
+    "main.js.map": "/jarvizkeep-reactapp-googlekeep-clone/static/js/main.5e8f705c.chunk.js.map",
+    "runtime-main.js": "/jarvizkeep-reactapp-googlekeep-clone/static/js/runtime-main.47dc990c.js",
+    "runtime-main.js.map": "/jarvizkeep-reactapp-googlekeep-clone/static/js/runtime-main.47dc990c.js.map",
+    "static/js/2.45a78c45.chunk.js": "/jarvizkeep-reactapp-googlekeep-clone/static/js/2.45a78c45.chunk.js",
+    "static/js/2.45a78c45.chunk.js.map": "/jarvizkeep-reactapp-googlekeep-clone/static/js/2.45a78c45.chunk.js.map",
+    "index.html": "/jarvizkeep-reactapp-googlekeep-clone/index.html",
+    "precache-manifest.2ac7a348150399a11b302c1653f2cc73.js": "/jarvizkeep-reactapp-googlekeep-clone/precache-manifest.2ac7a348150399a11b302c1653f2cc73.js",
+    "service-worker.js": "/jarvizkeep-reactapp-googlekeep-clone/service-worker.js",
+    "static/css/main.6851aa1d.chunk.css.map": "/jarvizkeep-reactapp-googlekeep-clone/static/css/main.6851aa1d.chunk.css.map",
+    "static/js/2.45a78c45.chunk.js.LICENSE.txt": "/jarvizkeep-reactapp-googlekeep-clone/static/js/2.45a78c45.chunk.js.LICENSE.txt",
+    "static/media/keep.png": "/jarvizkeep-reactapp-googlekeep-clone/static/media/keep.0a90c82d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47dc990c.js",
+    "static/js/2.45a78c45.chunk.js",
+    "static/css/main.6851aa1d.chunk.css",
+    "static/js/main.5e8f705c.chunk.js"
+  ]
+}
