@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(230, 230, 230);
+}
+
+
+#navBar{
+    display: flex;
+    align-items: center;
+    background-color: #fbb70a;
+    color: white;
+    border-bottom: 1px solid #aaaaaa;
+    box-shadow: 2px 2px 5px #888888;
+}
+#navBar img {
+    height: 80px;
+}
+
+#mainDiv{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 3px 3px 5px #888888;
+    background-color: white;
+}
+#mainDiv input , textarea{
+    padding: 10px;
+    font-size: large;
+    font-weight: 700;
+    border: none;
+    outline: none;
+}
+#mainDiv input{
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 1px;
+}
+#mainDiv textarea{
+    font-family: 'Hind', sans-serif;
+}
+
+#mainDiv #btn {
+    width: 10%;
+    color: #fbb70a;
+    position: relative;
+    bottom: -30px;
+    padding: 15px;
+    margin-top: 10% ;
+    margin-left: 80% ;
+    background-color: white;
+    border-radius: 100%;
+    box-shadow: 3px 3px 8px #888888;
+    outline: none;
+
+}
+#mainDiv #btn:hover{
+    background-color: #fbb70a;
+    color: white;
+}
+#mainDiv #btn:active{
+    background-color: #aaaaaa;
+}
+#plus{
+    font-size: 25px;
+}
+
+#keeperDiv{
+    margin-left:50px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+}
+
+
+#noteDiv{
+    width: 200px;
+    height: 100px;
+    margin: 50px 5px;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 3px 3px 8px #888888;
+}
+#note{
+    height:80px ;
+}
+#delbtn{
+    width: 5%;
+    border-radius: 100%;
+    padding: 10px 0px;
+    background-color: white;
+    box-shadow: 3px 3px 8px #888888;
+    margin-left:60% ;
+    position: relative;
+    bottom: -30px;
+    color: brown;
+
+}
+
+#delbtn:hover{
+    background-color: #fbb70a;
+    color: white;
+}
+#delbtn:active{
+    background-color: #aaaaaa;
+}
+
+
+
+
+#footer{
+    font-size: larger;
+    padding: 10px;
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+    left: 1px;
+    background-color: #fbb70a;
+    color: white;
+    text-align: center;
+
+}
